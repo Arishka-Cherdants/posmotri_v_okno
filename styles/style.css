@@ -205,7 +205,7 @@ div[class="search-form__checkbox-list"] .search-form__label:hover {
   display: flex;
   flex-direction: column;
   max-width: 100%;
-  row-gap: 26px;
+  row-gap: 19px;
 }
 
 .title{
@@ -214,6 +214,7 @@ div[class="search-form__checkbox-list"] .search-form__label:hover {
   font-weight: 700;
   line-height: 70.5px;
   text-transform: uppercase;
+  margin-top: 5px;
 }
 
 .content__accent{
@@ -273,7 +274,7 @@ div[class="search-form__checkbox-list"] .search-form__label:hover {
   flex-grow: 2;
   color: white;
   flex-direction: column;
-  row-gap: 6px;
+  row-gap: 2px;
   justify-content: start;
   margin-top: 2px;
 }
